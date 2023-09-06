@@ -10,20 +10,20 @@ TAG GW*/
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/GJ0xeVUqEcACgn8zKjlcuF   '
-global.ig = '@Alwaysaqioo' // ubah aja
-global.email = 'alwaysaqioo@gmail.com' //serah
+global.gr = 'https://chat.whatsapp.com/FSbrP6LWWm4A8i8uGdyDTs'
+global.ig = '@fahrul_mt' // ubah aja
+global.email = 'rakrohaku@gmail.com' //serah
 global.region = 'indonesia' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Alwaysaqioo' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Fahrul' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['62887082474470'] // ubah aja pake nomor lu
+global.owner = ['18155545188'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
-global.keyopenai = `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`
+global.keyopenai = `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`
 //====================BY Hw Mods=============================//
-global.botname = 'Alwaysaqioo Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = 'Alwaysaqioo' // ubah aja ini nama sticker
-global.author = 'Alwaysaqioo' // ubah aja ini nama sticker
+global.botname = 'F.A BOTZ MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = 'F.A BOTZ MD' // ubah aja ini nama sticker
+global.author = '© fahrul' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'qio' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
