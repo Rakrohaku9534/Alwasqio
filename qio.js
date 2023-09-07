@@ -1905,7 +1905,7 @@ break
 case 'larangan': case 'peraturan': {
 await loading()
  if (!m.isGroup) return m.reply('Buat Di Group Bodoh')
-qio.sendMessage(from, { text : `Haii 👋 Aku Shekai Bot F.A BOTZ MD
+qio.sendMessage(from, { text : `Haii 👋 Aku Shekai Bot ʜᴡ ᴍᴏᴅꜱ ᴡᴀ
 Aku Sebagai Admin Akan Melarang Kalian Untuk Toxic Ataupun Berkata Kasar Di group Ini !!!
 
 Larangan !!!
@@ -2294,9 +2294,9 @@ await loading()
  qiogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await qio.sendMessage(from, { audio: qiogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/6285786539008',
-title: `© fahrul`,
-sourceUrl: `https://wa.me/6285786539008`, 
+mediaUrl: 'https://wa.me/6281214281312',
+title: `ALWAYSAQIOO`,
+sourceUrl: `https://wa.me/6281214281312`, 
 thumbnail: thumb
 }
 }})
@@ -2929,9 +2929,9 @@ let { toPTT } = require('./lib/converter')
 let audio = await toPTT(media, 'mp4')
 qio.sendMessage(from, {audio: audio, mimetype:'audio/mpeg', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/6285786539008',
-title: `© fahrul`,
-sourceUrl: `https://wa.me/6285786539008`, 
+mediaUrl: 'https://wa.me/6281214281312',
+title: `ALWAYSAQIOO`,
+sourceUrl: `https://wa.me/6281214281312`, 
 thumbnail: thumb
 }
 }})
@@ -4211,9 +4211,9 @@ if (!text) return m.reply(`masukin text nya yang ada di database listvn`)
 var buu = fs.readFileSync(`./database/Audio/${text}.mp3`)
 qio.sendMessage('status@broadcast', {audio: buu, mimetype:'audio/mp4', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/6285786539008',
-title: `© fahrul`,
-sourceUrl: `https://wa.me/6285786539008`, 
+mediaUrl: 'https://wa.me/6281214281312',
+title: `ALWAYSAQIOO`,
+sourceUrl: `https://wa.me/6281214281312`, 
 thumbnail: thumb}}},{
 backgroundColor: '#FF000000',
 statusJidList: pengguna
